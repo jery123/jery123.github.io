@@ -145,10 +145,6 @@ body{
 .about:last-child{
     margin-bottom:0;
 }
-.title{
-    color:#003147;
-    text-transform: uppercase;
-}
 p{
     color:#333;
 }
