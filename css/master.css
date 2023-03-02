@@ -54,7 +54,12 @@ hr {
   margin-bottom: 3rem;
   margin-top: 3rem;
 }
-
+/* FOR PROFIL PHOTO */
+.profil{
+  border-radius: 50%;
+  width: 400px;
+  height: 380px;
+}
 /* this controls how the bullet points in the resume page looks */
 ul {
   display: table;
